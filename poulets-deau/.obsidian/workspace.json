@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7426ad5e37ed87ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "info dumb-prova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a2184e0231f0c58a",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "info dumb-prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "info dumb-prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "info dumb-prova.md"
               }
             }
           }
@@ -160,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a329eb073ad2134",
+  "active": "7426ad5e37ed87ff",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "info dumb-prova.md"
   ]
 }
